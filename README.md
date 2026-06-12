@@ -1,6 +1,7 @@
-# 🚢 FreightMind — Autonomous Global Freight Intelligence Platform
+# 🚢 FreightMind — Autonomous Global Freight Intelligence Platform 
 
 > AI + Quantum + RAG + Digital Twin + Multi-Agent System for International Logistics
+> ✈️🚚🚢📦
 
 ---
 
