@@ -150,7 +150,7 @@ Replace `ml/predictor.py` with your trained PyTorch/XGBoost model — same inter
 
 ---
 
-## 💼 Resume Description
+## Description
 
 **FreightMind — Autonomous Global Freight Intelligence Platform**
 *Python · PyTorch · XGBoost · QAOA · FAISS · FastAPI · React · Docker · AWS*
