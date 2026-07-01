@@ -178,4 +178,4 @@ Replace `ml/predictor.py` with your trained PyTorch/XGBoost model — same inter
 
 ---
 
-*FreightMind v2.0 — Built for portfolio, production-ready architecture*
+*FreightMind v2.0 — Built for production-ready architecture*
